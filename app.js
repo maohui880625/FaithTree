@@ -69,7 +69,6 @@ export default class app extends Component {
         );
     }
 
-
     componentDidMount(){
         this._startTimer();
     }
